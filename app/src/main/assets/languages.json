@@ -1,0 +1,268 @@
+{
+  "result": [
+    {
+      "name": "AUTO_DETECT",
+      "code": "auto"
+    },
+    {
+      "name": "AFRIKAANS",
+      "code": "af"
+    },
+    {
+      "name": "ALBANIAN",
+      "code": "sq"
+    },
+    {
+      "name": "ARABIC",
+      "code": "ar"
+    },
+    {
+      "name": "ARMENIAN",
+      "code": "hy"
+    },
+    {
+      "name": "AZERBAIJANI",
+      "code": "az"
+    },
+    {
+      "name": "BASQUE",
+      "code": "eu"
+    },
+    {
+      "name": "BELARUSIAN",
+      "code": "be"
+    },
+    {
+      "name": "BENGALI",
+      "code": "bn"
+    },
+    {
+      "name": "BULGARIAN",
+      "code": "bg"
+    },
+    {
+      "name": "CATALAN",
+      "code": "ca"
+    },
+    {
+      "name": "CHINESE",
+      "code": "zh-CN"
+    },
+    {
+      "name": "CROATIAN",
+      "code": "hr"
+    },
+    {
+      "name": "CZECH",
+      "code": "cs"
+    },
+    {
+      "name": "DANISH",
+      "code": "da"
+    },
+    {
+      "name": "DUTCH",
+      "code": "nl"
+    },
+    {
+      "name": "ENGLISH",
+      "code": "en"
+    },
+    {
+      "name": "ESTONIAN",
+      "code": "et"
+    },
+    {
+      "name": "FILIPINO",
+      "code": "tl"
+    },
+    {
+      "name": "FINNISH",
+      "code": "fi"
+    },
+    {
+      "name": "FRENCH",
+      "code": "fr"
+    },
+    {
+      "name": "GALICIAN",
+      "code": "gl"
+    },
+    {
+      "name": "GEORGIAN",
+      "code": "ka"
+    },
+    {
+      "name": "GERMAN",
+      "code": "de"
+    },
+    {
+      "name": "GREEK",
+      "code": "el"
+    },
+    {
+      "name": "GUJARATI",
+      "code": "gu"
+    },
+    {
+      "name": "HAITIAN_CREOLE",
+      "code": "ht"
+    },
+    {
+      "name": "HEBREW",
+      "code": "iw"
+    },
+    {
+      "name": "HINDI",
+      "code": "hi"
+    },
+    {
+      "name": "HUNGARIAN",
+      "code": "hu"
+    },
+    {
+      "name": "ICELANDIC",
+      "code": "is"
+    },
+    {
+      "name": "INDONESIAN",
+      "code": "id"
+    },
+    {
+      "name": "IRISH",
+      "code": "ga"
+    },
+    {
+      "name": "ITALIAN",
+      "code": "it"
+    },
+    {
+      "name": "JAPANESE",
+      "code": "ja"
+    },
+    {
+      "name": "KANNADA",
+      "code": "kn"
+    },
+    {
+      "name": "KOREAN",
+      "code": "ko"
+    },
+    {
+      "name": "LATIN",
+      "code": "la"
+    },
+    {
+      "name": "LATVIAN",
+      "code": "lv"
+    },
+    {
+      "name": "LITHUANIAN",
+      "code": "lt"
+    },
+    {
+      "name": "MACEDONIAN",
+      "code": "mk"
+    },
+    {
+      "name": "MALAY",
+      "code": "ms"
+    },
+    {
+      "name": "MALTESE",
+      "code": "mt"
+    },
+    {
+      "name": "NORWEGIAN",
+      "code": "no"
+    },
+    {
+      "name": "PERSIAN",
+      "code": "fa"
+    },
+    {
+      "name": "POLISH",
+      "code": "pl"
+    },
+    {
+      "name": "PORTUGUESE",
+      "code": "pt"
+    },
+    {
+      "name": "ROMANIAN",
+      "code": "ro"
+    },
+    {
+      "name": "RUSSIAN",
+      "code": "ru"
+    },
+    {
+      "name": "SERBIAN",
+      "code": "sr"
+    },
+    {
+      "name": "SLOVAK",
+      "code": "sk"
+    },
+    {
+      "name": "SLOVENIAN",
+      "code": "sl"
+    },
+    {
+      "name": "SPANISH",
+      "code": "es"
+    },
+    {
+      "name": "SWAHILI",
+      "code": "sw"
+    },
+    {
+      "name": "SWEDISH",
+      "code": "sv"
+    },
+    {
+      "name": "TAMIL",
+      "code": "ta"
+    },
+    {
+      "name": "TELUGU",
+      "code": "te"
+    },
+    {
+      "name": "THAI",
+      "code": "th"
+    },
+    {
+      "name": "TURKISH",
+      "code": "tr"
+    },
+    {
+      "name": "UKRAINIAN",
+      "code": "uk"
+    },
+    {
+      "name": "URDU",
+      "code": "ur"
+    },
+    {
+      "name": "VIETNAMESE",
+      "code": "vi"
+    },
+    {
+      "name": "WELSH",
+      "code": "cy"
+    },
+    {
+      "name": "YIDDISH",
+      "code": "yi"
+    },
+    {
+      "name": "CHINESE_SIMPLIFIED",
+      "code": "zh-CN"
+    },
+    {
+      "name": "CHINESE_TRADITIONAL",
+      "code": "zh-TW"
+    }
+  ]
+}
